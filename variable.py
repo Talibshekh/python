@@ -21,8 +21,8 @@ text2 ="this is my fist language" #paragraph
 print(text2)
 
 
-          #polian value
-   #polian value kwal True or False me de skte ho
+          #boolean value
+   #boolean value kwal True or False me de skte ho
    # or cotetion use nhi kr skte hai or true or flase ka pahla letter capital me hona chahiye
 
 text3 = True

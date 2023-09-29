@@ -47,7 +47,7 @@ new_tex = rex2.replace("t","d")          #("my","your")
 print(new_tex)'''
 
 
-       #answer in true or flase , polian variable
+       #answer in true or flase , boolean variable
 
 rex2 = "my name is talib shekh"
 new_rex2 = "name" in rex
